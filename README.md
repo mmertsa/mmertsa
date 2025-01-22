@@ -1,23 +1,14 @@
-## Hi there 👋🦋
+## Hi, I'm Meri!👋🦋
 
-<!--
-**mmertsa/mmertsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### 🌸 (Fun) Facts about me:
+### 🌸 About me:
 🐍 Took one Python course at uni and based on that decided to pursue ICT engineering (Mistake, perhaps?) <br>
 💊 Registered nurse by profession <br>
 👩‍🎓 Bachelor of English (although, does absolutely nothing with this degree)<br>
-💻 Currently studying ICT Engineering
+💻 Currently studying ICT Engineering (beginner at coding but keen to improve!)<br>
 
-### 
+
+
+### 🌸 Tech I am familiar with:
+![My Skills](https://skillicons.dev/icons?i=python,cs,html,css,unity,arduino,azure,mysql,postgres,vscode&perline=3)
+
+
