@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋🦋
 
 <!--
 **mmertsa/mmertsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 🌸 (Fun) Facts about me:
+🐍 Took one Python course at uni and based on that decided to pursue ICT engineering (Mistake, perhaps?) <br>
+💊 Registered nurse by profession <br>
+👩‍🎓 Bachelor of English (although, does absolutely nothing with this degree)<br>
+💻 Currently studying ICT Engineering
+
+### 
