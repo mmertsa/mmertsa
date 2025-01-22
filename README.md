@@ -9,6 +9,6 @@
 
 
 ### 🌸 Tech I am familiar with:
-![My Skills](https://skillicons.dev/icons?i=python,cs,html,css,unity,arduino,azure,mysql,postgres,vscode&perline=3)
+![My Skills](https://skillicons.dev/icons?i=python,cs,html,css,unity,arduino,azure,mysql,postgres,vscode&perline=15)
 
 
