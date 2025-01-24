@@ -4,7 +4,7 @@
 🐍 Took one Python course at uni and based on that decided to pursue ICT engineering (Mistake, perhaps?) <br>
 💊 Registered nurse by profession <br>
 👩‍🎓 Bachelor of English (although, does absolutely nothing with this degree)<br>
-💻 Currently studying ICT Engineering (beginner at coding but keen to improve!)<br>
+💻 Currently studying ICT Engineering (beginner at programming but keen to improve!)<br>
 
 
 
