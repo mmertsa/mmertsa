@@ -10,8 +10,8 @@
 </div> 
 
 I am a beginner programmer currently studying ICT Engineering. <br>
-My strong enthusiasm for acquiring new skills motivated me to leave my joc as a nurse <br>
-and pursue programming.
+My strong enthusiasm for acquiring new skills motivated me to leave my job as a nurse <br>
+and pursue programming instead.
 In my free time, I enjoy documenting my learning process through coding examples <br> 
 and notes, 
 which I hope will be helpful to others as well. 
